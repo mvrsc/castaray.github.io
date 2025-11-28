@@ -1,2 +1,2 @@
 # castaray.github.io
-Raycasting engine in raylib
+Raycasting engine in raylib (web deployment)
